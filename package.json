@@ -35,5 +35,26 @@
     "jsdom-global": "3.0.2",
     "mocha": "^5.2.0",
     "sinon": "^6.3.5"
-  }
+  },
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aks2258/react-dynamic-components-lab-atx01-seng-ft-071320.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aks2258/react-dynamic-components-lab-atx01-seng-ft-071320/issues"
+  },
+  "homepage": "https://github.com/aks2258/react-dynamic-components-lab-atx01-seng-ft-071320#readme",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
